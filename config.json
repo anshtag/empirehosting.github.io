@@ -1,0 +1,5 @@
+{
+  "max_cpu": "100%",
+  "max_memory": "2GB",
+  "max_disk": "2GB"
+}
